@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://visitor-badge.glitch.me/badge?page_id=qianchuanshi.qianchuanshi"> <img alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=qianchuanshi.qianchuanshi"> </a>
+  <img src="https://komarev.com/ghpvc/?username=qianchuanshi&label=Profile%20views&color=0e75b6&style=flat" alt="qianchuanshi" />
 </p>
 
 <br />
@@ -57,8 +57,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
