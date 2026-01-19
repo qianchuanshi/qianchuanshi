@@ -74,12 +74,28 @@
 
 <br />
 
-<h2 align="center">🤝 Support / 支持</h2>
+<h2 align="center">🤝 Let's Connect / 让我们连接</h2>
 
-<p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
-<p align="center">🎀 欢迎贡献、问题反馈和功能请求！</p>
+<p align="center">
+  <b>🔬 Always open to scientific discussions and collaborations!</b><br>
+  <b>🔬 欢迎科学讨论与合作！</b>
+</p>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-<p align="center">💙 如果你喜欢我的项目，请给它们 ⭐ 并分享给朋友们！</p>
+<p align="center">
+  <b>💡 Ideas, suggestions, or questions about bioinformatics? Feel free to reach out!</b><br>
+  <b>💡 关于生物信息学的想法、建议或问题？欢迎随时联系！</b>
+</p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<p align="center">
+  <b>📚 Learning together makes science more fun. Let's explore the mysteries of life! 🧬</b><br>
+  <b>📚 共同学习让科学更有趣。让我们一起探索生命的奥秘！🧬</b>
+</p>
+
+<br />
+
+<h1 align='center'>⚡️<i>Keep coding, keep discovering! 🚀</i>⚡️</h1>
+
+<p align="center">
+  <i>"In science, there are no shortcuts to truth."</i><br>
+  <i>"科学中，没有通往真理的捷径。"</i>
+</p>
